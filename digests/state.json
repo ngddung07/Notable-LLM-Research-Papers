@@ -1,0 +1,43 @@
+{
+  "_note": "Dedup ledger for the Mon/Fri digest. Keys are the 10 README categories; values are S.No. values already featured. Do not edit by hand.",
+  "used": {
+    "Model Architecture and Efficiency": [
+      531
+    ],
+    "Preference Optimization and RLHF": [
+      293,
+      109
+    ],
+    "Multimodal Models": [
+      145,
+      123
+    ],
+    "Long-Context Learning and Inference": [
+      56
+    ],
+    "Reasoning and Knowledge": [
+      532
+    ],
+    "Quantization and Compression": [
+      65,
+      90
+    ],
+    "Evaluation and Benchmarks": [
+      441,
+      116,
+      242
+    ],
+    "Instruction Tuning and Alignment": [
+      300,
+      515
+    ],
+    "Surveys and Meta-Analysis": [
+      126,
+      152
+    ],
+    "Applications and Tooling": [
+      568
+    ]
+  },
+  "exhausted": []
+}
